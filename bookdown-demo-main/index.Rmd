@@ -1,6 +1,6 @@
 --- 
 title: "Predicción de precios del Bitcoin"
-author: "José David Zamudio Rojas"
+author: "José David Zamudio R"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
